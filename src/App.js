@@ -1,12 +1,13 @@
 
 import './App.css';
-import Quizsreen from './components/Quizsreen';
-
+import QuizApp from './components/Quizsreen';
+// import Quizsreen from './components/Quizsreen';
 function App() {
   return (
-   <div>
-   <Quizsreen/>
-   </div>
+  <>
+   <QuizApp />
+  </>
+  
   );
 }
 
